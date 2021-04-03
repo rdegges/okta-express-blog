@@ -17,7 +17,7 @@
     "express-session": "^1.15.6",
     "http-errors": "~1.6.2",
     "morgan": "~1.9.0",
-    "nodemon": "^1.17.5",
+    "nodemon": "^1.19.4",
     "pug": "2.0.0-beta11",
     "sequelize": "^4.38.0",
     "slugify": "^1.3.0",
