@@ -6,7 +6,7 @@
     "start": "node ./bin/www"
   },
   "dependencies": {
-    "@okta/oidc-middleware": "^0.1.2",
+    "@okta/oidc-middleware": "^4.0.0",
     "@okta/okta-sdk-nodejs": "^1.1.0",
     "async": "^2.6.1",
     "bluebird": "^3.5.1",
